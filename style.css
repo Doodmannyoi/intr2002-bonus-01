@@ -1,0 +1,16 @@
+body {
+    font-family: "Sans-Serif";
+}
+
+.btn-primary
+{
+    background-color: greenyellow;
+    border-color:transparent;
+    color:black;
+}
+
+#menu .active
+{
+    background-color: plum !important;
+    color:black !important;
+}
